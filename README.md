@@ -4,9 +4,8 @@ Bu proje E-İmza için gerekli uygulamaların yüklenmesi amacı ile oluşturulm
 
 ## Yükleme
 
-- https://raw.githubusercontent.com/iso-bt/e-imza-uygulamalari/main/otomatik_yukleme.bat bağlantısını açın.
-- CTRL + S tuşlarına basarak dosyayı masaüstüne kaydedin.
-- Kaydettiğiniz dosyayı çalıştırın.
+- [https://raw.githubusercontent.com/iso-bt/e-imza-uygulamalari/main/otomatik_yukleme.bat](https://github.com/iso-bt/e-imza-uygulamalari/releases/download/0.1/otomatik_yukleme.bat) bağlantısını açın.
+- İndirilen otomatik_yukleme.bat dosyasını çalıştırın.
 - Yönetici izni gerektiği için ekrana gelen yönetici iznini kabul edin.
 - Otomatik olarak gerekli dosyalar indirilecek ve yüklenecektir.
 
