@@ -43,7 +43,7 @@ curl -o %temp%\EBYS\vc86.exe https://download.microsoft.com/download/5/B/C/5BC5D
 powershell -Command "Expand-Archive -Path '%temp%\EBYS\akis.zip' -DestinationPath '%temp%\EBYS\'"
 
 %temp%\EBYS\Akia_windows-x64_6_5_4.msi /qn /norestart
-%temp%\EBYS\java.exe /qn /norestart
+%temp%\EBYS\java.exe /qn
 %temp%\EBYS\palma.exe /SILENT /NOCANCEL /NORESTART /qn
 %temp%\EBYS\enVision.exe /exenoui /qn
 %temp%\EBYS\net4.exe /q /norestar
